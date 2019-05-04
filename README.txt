@@ -1,6 +1,3 @@
-I am using option 3
+#4280-P4
 
-The driver function is located in the scanner.cpp file. The function is simply named scanner.
-
-I will submit the FDA table and graph into canvas
-
+Same as P3 except now has code generation aspect of compiler. Compiles to asm language given by instructor
